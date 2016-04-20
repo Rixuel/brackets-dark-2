@@ -1,0 +1,15 @@
+{
+    "name": "Rixuel",
+    "title": "Brackets Dark 2",
+    "description": "Modified colors of Brackets Dark by Adobe",
+    "homepage": "https://github.com/Rixuel/brackets-dark-2",
+    "version": "1.0.0",
+    "author": "Your Name <your@email> (http://your.url)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
