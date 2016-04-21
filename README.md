@@ -1,5 +1,5 @@
 # brackets-dark-2
-Modified colors of Brackets Dark by Adobe
+Modified colors of Brackets Dark from Adobe
 
 ## To install manually:
 - Go to **Help -> Show Extensions Folder**
