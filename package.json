@@ -4,7 +4,7 @@
     "description": "Modified colors of Brackets Dark from Adobe",
     "homepage": "https://github.com/Rixuel/brackets-dark-2",
     "version": "1.0.0",
-    "author": "Your Name <your@email> (http://your.url)",
+    "author": "Rixuel Patrick <rixuel@hotmail.com> (http://github.com/Rixuel)",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
